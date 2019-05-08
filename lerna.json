@@ -4,7 +4,7 @@
   "useWorkspaces": true,
   "version": "independent",
   "changelog": {
-    "repo": "elegantthemes/create-divi-extension",
+    "repo": "secondwavetech/create-divi-extension",
     "labels": {
       "FEATURE": ":rocket: New Feature",
       "BUG": ":bug: Bug Fix",
